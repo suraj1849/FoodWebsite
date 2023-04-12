@@ -5,4 +5,4 @@ I created a food wage website using HTML and CSS, which provides a platform for 
 
 
 
-ttps://suraj1849.github.io/FoodWebsite/
+https://suraj1849.github.io/FoodWebsite/
